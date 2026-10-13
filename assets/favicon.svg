@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5b36e6"/>
+      <stop offset="0.55" stop-color="#a8226a"/>
+      <stop offset="1" stop-color="#ad3520"/>
+    </linearGradient>
+  </defs>
+  <circle cx="52" cy="12" r="10" fill="#ffc94d"/>
+  <rect x="4" y="8" width="52" height="52" rx="16" fill="url(#g)"/>
+  <text x="30" y="44" text-anchor="middle" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff" letter-spacing="-1">IM</text>
+</svg>
